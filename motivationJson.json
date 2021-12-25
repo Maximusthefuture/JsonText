@@ -1,3 +1,12 @@
-{
-  "text": "Some text here"
-}
+[
+  {
+    "id":1,
+    "author": "Who",
+    "text": "Text here" 
+  },
+  {
+    "id": 2,
+    "author": "Who",
+    "text": "Text here"
+  }
+]
